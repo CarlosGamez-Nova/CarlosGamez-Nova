@@ -10,7 +10,11 @@ I focus on the Energy Industry specialising in Asset Management, Risk Management
 *   ✉️  You can contact me at [carlos.gamez@novaenergy.consulting](mailto:carlos.gamez@novaenergy.consulting)
 *   🚀  I'm currently working on [myActivo](http://engineers.tools/devblog/what-is-myactivo/)
 *   🧠  I'm learning Laravel
-*   🤝  I'm open to collaborating on Open Source and Engineering Projects### Skills 
+*   🤝  I'm open to collaborating on Open Source and Engineering Projects
+*   
+
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,6 +28,7 @@ I focus on the Energy Industry specialising in Asset Management, Risk Management
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+
 ### Socials
                   
 <p align="left">
