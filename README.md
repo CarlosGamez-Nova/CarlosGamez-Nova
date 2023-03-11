@@ -11,7 +11,6 @@ I focus on the Energy Industry specialising in Asset Management, Risk Management
 *   🚀  I'm currently working on [myActivo](http://engineers.tools/devblog/what-is-myactivo/)
 *   🧠  I'm learning Laravel
 *   🤝  I'm open to collaborating on Open Source and Engineering Projects
-*   
 
 ### Skills 
 
